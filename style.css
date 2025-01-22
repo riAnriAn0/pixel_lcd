@@ -1,0 +1,32 @@
+#box{
+    width: 500px;
+    height: 600px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+}
+
+#pixels{
+    width: 117px;
+    height: 160px;
+    border: solid 1.5px ;
+}
+
+#criar{
+    width: 70px;
+    height: 30px;
+    padding: 8px;
+    background-color: rgb(212, 212, 212);
+    border: solid 1.5 black;
+    border-radius: 5px;
+}
+
+#nameicon{
+    height: 40px;
+    border: 1.5px solid black;
+    padding: 5px;
+    outline: none;
+}
